@@ -5,6 +5,33 @@ You can use the [editor on GitHub](https://github.com/daniellachristina/this-is-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Archaeology for everyone</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+      <h2>Hello</h2>
+      <ul>
+        <li>Blog</li>
+        <li>Visuals</li>
+        <li>Portfolio projects</li>
+        <li>Social media</li>
+      </ul>
+    </div>
+    <div class="main">
+      <h1>Portfolio</h1>
+      <h3>Current projects</h3>
+      <p>As technology advances, so to do the methods and tools archaeologists use to share and explore new data. This website is a space for me to showcase my portfolio projects, including data visualisation and 3D modelling. Follow me on Twitter <a href="https://twitter.com/digiarch2017">list</a> </p>
+    </div>
+  </div>
+</body>
+</html>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
